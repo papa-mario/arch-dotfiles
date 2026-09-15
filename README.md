@@ -12,9 +12,11 @@ Personal Arch Linux configuration (Sway/Wayland).
 
 ## deployment
 
-Clone the repository and install dependencies:
+**1. Prerequisites**
+On a fresh Arch Linux install, you must install Git, base-devel, and an AUR helper (`yay`) before proceeding:
 ```bash
-git clone [https://github.com/papa-mario/arch-dotfiles.git](https://github.com/papa-mario/arch-dotfiles.git) ~/dotfiles
-cd ~/dotfiles/setup
-chmod +x install_packages.sh
-./install_packages.sh
+sudo pacman -Syu git base-devel
+git clone [https://aur.archlinux.org/yay.git](https://aur.archlinux.org/yay.git)
+cd yay
+makepkg -si
+cd ~
