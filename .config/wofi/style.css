@@ -1,0 +1,42 @@
+* {
+    font-family: monospace;
+}
+
+window {
+    margin: 0px;
+    background-color: #000000;
+    border: 2px solid #cc0000; /* Pure terminal green border */
+}
+
+#input {
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #cc0000;
+    color: #00ff00;
+    background-color: #000000;
+}
+
+#inner-box, #outer-box {
+    margin: 5px;
+    background-color: transparent;
+}
+
+#scroll {
+    margin: 0px;
+    border: none;
+}
+
+#text {
+    margin: 5px 10px;
+    color: #cc0000;
+}
+
+#entry:selected {
+    background-color: #cc0000;
+    outline: none;
+}
+
+#entry:selected #text {
+    color: #000000; /* Inverts text to black when highlighted */
+    font-weight: bold;
+}

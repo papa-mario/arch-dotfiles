@@ -1,0 +1,105 @@
+title-text: "whesh a khay sat"
+title-color: "#000000"
+desktop-color: "#000000"
+terminal-left: "0%"
+terminal-top: "0%"
+terminal-width: "100%"
+terminal-height: "100%"
++ boot_menu {
+    left = 65%
+    width = 30%
+    top = 80%       # Moved up slightly to sit under the text
+    height = 15%
+    item_color = "#8b7ed6"
+    selected_item_color = "#fce47c"
+    item_height = 24
+    item_padding = 2
+    item_spacing = 5
+}
+  + label { text = "                                                                                                                                                            " color = "#4a0082" top = 5 left = 1% font = "unicode" }
+  + label { text = "                                                                                                                                                            " color = "#4f077e" top = 20 left = 1% font = "unicode" }
+  + label { text = "                                                                                                                                                            " color = "#540f7a" top = 35 left = 1% font = "unicode" }
+  + label { text = "                                                                                                                                                            " color = "#5a1676" top = 50 left = 1% font = "unicode" }
+  + label { text = "                                                                                                                                                            " color = "#5f1e72" top = 65 left = 1% font = "unicode" }
+  + label { text = "                                                                                                                                                            " color = "#65266e" top = 80 left = 1% font = "unicode" }
+  + label { text = "                                                                                ====\=======                                                                " color = "#6a2d6a" top = 95 left = 1% font = "unicode" }
+  + label { text = "                                                                      =========/iB8BBB888B=W\==                                                             " color = "#6f3566" top = 110 left = 1% font = "unicode" }
+  + label { text = "                                                               ======/iB8B888BMMMBMMWMMWWu:iMMw===                                                          " color = "#753c62" top = 125 left = 1% font = "unicode" }
+  + label { text = "                                                            /u=iMWMB8BBBBBBBBBMMWWWiuwwwuuiMBBMMMw=                                                         " color = "#7a445f" top = 140 left = 1% font = "unicode" }
+  + label { text = "                                                     =======iM888888BBBBMB8BB8888BBBiuuuwM88BB8BBBB\.                                                       " color = "#804c5b" top = 155 left = 1% font = "unicode" }
+  + label { text = "                                                  ===/MB8888BBB888BBMWMMMMMBBBMWiiwiWiiWM==BMBBMWMBMw                                                       " color = "#855357" top = 170 left = 1% font = "unicode" }
+  + label { text = "                                              ==/wMB8888888BBWiWMBBBBMWWWiiwwwwuu:''':':::uWWWwuwwiii:                                                      " color = "#8a5b53" top = 185 left = 1% font = "unicode" }
+  + label { text = "                                            =/iMWWWMMMMBBBMMiwuiWMMMWMWWiiwu::::''''''::':wwu::':'::uw\===                                                  " color = "#90624f" top = 200 left = 1% font = "unicode" }
+  + label { text = "                                          ./MBMWiiiwuiMMMBBMMWWiiiiiiwwwiwww::uw::'''uuw::'''''''':'uMBBMW:.                                                " color = "#956a4b" top = 215 left = 1% font = "unicode" }
+  + label { text = "                                         //MBBBBMWi::wwiWMBBBBBWiiwuuwu'':::::::'''''''''''''''':''':uiiiiiu.                                               " color = "#9b7247" top = 230 left = 1% font = "unicode" }
+  + label { text = "                                       //iMBBBBBMMMWiwwwwwiWM==iu:::::wwwiw======uuuuuwu='''''''''''uWMBBMiu'                                               " color = "#a07943" top = 245 left = 1% font = "unicode" }
+  + label { text = "                                     .:iMMMWWWMMiiwuiu:::''::u'''''':wWMBBBBBMMBBBBBBBBMMiu===''''''wiWWWiiW/.                                              " color = "#a58140" top = 260 left = 1% font = "unicode" }
+  + label { text = "                                      :iiwMWWWMWMWiwuu=''::'::':uuwwiWBB88888BBB88BBMBBBBMMMMMiu:::u:wuuuu:'.                                               " color = "#ab893c" top = 275 left = 1% font = "unicode" }
+  + label { text = "                                      '''wM/w======w===/:'''::::uwiiWM==MBMMBBBB888BMMMMMWMBMMWWWWiu'':''''''                                               " color = "#b09038" top = 290 left = 1% font = "unicode" }
+  + label { text = "                                     .u:'wuu        ......  ....':::u:::uuuuuuuuw==================wwu''''''u.                                              " color = "#b69834" top = 305 left = 1% font = "unicode" }
+  + label { text = "                                     :Wi::   .'..''....                     =          .....'''''''........''                                               " color = "#bb9f30" top = 320 left = 1% font = "unicode" }
+  + label { text = "                                    .u=::''''::'::'''''''..==.            ='i:='w:                    ==  =                                                 " color = "#c0a72c" top = 335 left = 1% font = "unicode" }
+  + label { text = "                                    /MBWw''''''''''''''':wiWMu          /u/w/wWwu'   '\'            =:=|=//u                                                " color = "#c6af28" top = 350 left = 1% font = "unicode" }
+  + label { text = "                                   |iMMMMu''''''''''':uiiWMBBi\.       \/u.\/u'.   =//B\=        ./w/u/w=/'.                                                " color = "#cbb624" top = 365 left = 1% font = "unicode" }
+  + label { text = "                                    uiiiw:'''''''''':uiWWWMBBBBi\.               =/wiWBW\=       u/:|\//                                                    " color = "#d1be20" top = 380 left = 1% font = "unicode" }
+  + label { text = "                                    .'ui/:'''''''''''uwWWWMMBBBBBwwuu===========/WMBBBBB8W\===                                                              " color = "#d6c51d" top = 395 left = 1% font = "unicode" }
+  + label { text = "                                     '''''''''''''''':uiiWWWMMMMMBBBBBBBBB888888BMMMBBB888Biiwwwuuu:                                                        " color = "#dbcd19" top = 410 left = 1% font = "unicode" }
+  + label { text = "                                      .''':uiwu'''':u:uiwiiWWWWWWMMBBBBBBBBBBBMMWMB8=BBB88BMMMMWWWi/.                                                       " color = "#e1d515" top = 425 left = 1% font = "unicode" }
+  + label { text = "                                        .'iWiiwwuwiiwuwWiiWiWWWWWMMMMBBBBBBBBMMBBWiwwuwiWiiwWWWWWiu.                                                        " color = "#e6dc11" top = 440 left = 1% font = "unicode" }
+  + label { text = "                                         .'wwuwiiiWWWiwwiWWWWWWWWMWMMMMMBBBBBB88Biw==':uu::iWWWWiu'                                                         " color = "#ece40d" top = 455 left = 1% font = "unicode" }
+  + label { text = "                                          .'u:''':uwuwiiiWWWWWWWWWWWMMMMMBBBBBBB888BBWu''''wWWWWu'.                                                         " color = "#f1eb09" top = 470 left = 1% font = "unicode" }
+  + label { text = "                                           .:''''''''uwiiiWWWWWWWWWWWMMMMBMMMMMMMMMMMMWWwu:iWWWw:.                                                          " color = "#f6f305" top = 485 left = 1% font = "unicode" }
+  + label { text = "                                           'uu'::'''''uwwiiiiWWWWWWWWMMMMMMWWWiiWMWiiWWiwuuiiWi::.                                                          " color = "#fcfb01" top = 500 left = 1% font = "unicode" }
+  + label { text = "                                           'iiwu:''''''uwwwwiiiiWWWWWWWWWWMMBBBMWiiwwwiiwwwWWiu:'                                                           " color = "#fcfb01" top = 515 left = 1% font = "unicode" }
+  + label { text = "                                           .:wiWiu':uu:u:uuwwwwiwiiiWWWWWWMMBBBBBMMMWWiwwuWiiu::.                                                           " color = "#f6f305" top = 530 left = 1% font = "unicode" }
+  + label { text = "                                           :wWWWWWwwiiwu':::uuuwwwwwwiiWWWMMBBB88888BBBMWWiiuuu.                                                            " color = "#f1eb09" top = 545 left = 1% font = "unicode" }
+  + label { text = "                                            ':uuwwu::iWiu':uuu:::wuuwuwwwiiWWMMMMMMMWWWWWiuwu'                                                              " color = "#ece40d" top = 560 left = 1% font = "unicode" }
+  + label { text = "                                              ..uWW/wwWWWw''::::u:::u:uuuwuwwwwiwiiiiwiwwwu:.                                                               " color = "#e6dc11" top = 575 left = 1% font = "unicode" }
+  + label { text = "                                                .'::uwWMMMWu::::uuuuu:uwuwwwwwwwwwwwwwwww:'.                                                                " color = "#e1d515" top = 590 left = 1% font = "unicode" }
+  + label { text = "                                                  ''':iWBBBMMWWWWWWiiwwuuuwwwwwwwwwwwwwu:'''.                                                               " color = "#dbcd19" top = 605 left = 1% font = "unicode" }
+  + label { text = "                                                    .'wWMBBBBMMMMMMWWWWWwuu::::::wuw::''::::\                                                               " color = "#d6c51d" top = 620 left = 1% font = "unicode" }
+  + label { text = "                                                     .uiWMBBBMMMMBBBMMMMMMMWwu::'u::'':'u:uWW:                                                              " color = "#d1be20" top = 635 left = 1% font = "unicode" }
+  + label { text = "                                                      :iWWMMBMMMMMMMBMBBBBBMMWWiu::::::uuiWWW|'                                                             " color = "#cbb624" top = 650 left = 1% font = "unicode" }
+  + label { text = "                                                      .uiWMMMMMMWWWWMMMMMMMMWWWWWwwwwiiiMMMMWWu                                                             " color = "#c6af28" top = 665 left = 1% font = "unicode" }
+  + label { text = "                                                       uiWWMMMMWWWWWMMWWWWWWWWWWWWMMMMMMMMMWWWWw:==================                                         " color = "#c0a72c" top = 680 left = 1% font = "unicode" }
+  + label { text = "                                                       'wiWMMMMMMMMMMMMMWWWWWMMMMMMMMMMMMMMWWWWWMMMMMMBBBBBBBWiiiiw====                                     " color = "#bb9f30" top = 695 left = 1% font = "unicode" }
+  + label { text = "                                                       /wwiWMMMMMMWMMMMBMBMMMMMBBMMMMMMMMMMMWWWMMMBBBBBBBBBBBB8BBBBBBM/:                                    " color = "#b69834" top = 710 left = 1% font = "unicode" }
+  + label { text = "                                                       uwwwiWMMMMWMWWWWWWWWWMMBBBBBBMMMMMMMMMWWMMBMBBBBBBBBBBBBBMM==wu'                                     " color = "#b09038" top = 725 left = 1% font = "unicode" }
+  + label { text = "                                                      /iWWiwiMBBMMMWWWWWWWWWMBBBBBBBBBBBMMMMMMMMBBBBBBBBBBBBBBMWwu'.                                        " color = "#ab893c" top = 740 left = 1% font = "unicode" }
+  + label { text = "                                                    =/wWWWWiiMBBBBMWWWWWWWWMMBBBBBBBBBBBBBBMMMBBBMMMBBBBBBBBMWw:.                                           " color = "#a58140" top = 755 left = 1% font = "unicode" }
+  + label { text = "                                                 ==/WMBMWWWWiWB88BMWWiiWWMMBBBBBBBBBBB88BBBBBB8BMMWMMBBBBBMWw:.                                             " color = "#a07943" top = 770 left = 1% font = "unicode" }
+  + label { text = "                                             ===/WBBBBBMMMMMWiB88BMWWWWMMMBB8BBBBBBB888888888888BMWwiMMMBMWu'                                               " color = "#9b7247" top = 785 left = 1% font = "unicode" }
+  + label { text = "                                         ====iBB888BBBBMB8BBMWM88BMMBMBBMBB88BBBB888888888888888888BiwiWW/'.                                                " color = "#956a4b" top = 800 left = 1% font = "unicode" }
+  + label { text = "                                       =//B888888BBBBBBB888BBMM88BBB8BBBBB88888888888888888888888888BBWw:.                                                  " color = "#90624f" top = 815 left = 1% font = "unicode" }
+  + label { text = "                                      :MBB8B8BBBBBBBBBB88888BBMB888B88888888888888888888888888888=====u'                                                    " color = "#8a5b53" top = 830 left = 1% font = "unicode" }
+  + label { text = "                                      |MBBBBBBBBBBBB888888B888BB888888BBBBBB8888888888888888=====u'.                                                        " color = "#855357" top = 845 left = 1% font = "unicode" }
+  + label { text = "                                      .u==BBBBBBBBBBBBBBBB8888888888BBBBB8888B888888888======:'                                                             " color = "#804c5b" top = 860 left = 1% font = "unicode" }
+  + label { text = "                                         '===BBBBBBBBBBB88B888888888BBBBBBBBBBBBBB8=====:'                                                                  " color = "#7a445f" top = 875 left = 1% font = "unicode" }
+  + label { text = "                                           .'====BBBBBBBBBBBBBBBB88BBBBBBBBBB======u:.                                                                      " color = "#753c62" top = 890 left = 1% font = "unicode" }
+  + label { text = "                                               .:u\========================uu:...                                                                           " color = "#6f3566" top = 905 left = 1% font = "unicode" }
+  + label { text = "                                                      .'''''''''''''''.                                                                                     " color = "#6a2d6a" top = 920 left = 1% font = "unicode" }
+  + label { text = "                                                                                                                                                            " color = "#65266e" top = 935 left = 1% font = "unicode" }
+  + label { text = "                                                                                                                                                            " color = "#5f1e72" top = 950 left = 1% font = "unicode" }
+  + label { text = "                                                                                                                                                            " color = "#5a1676" top = 965 left = 1% font = "unicode" }
+  + label { text = "                                                                                                                                                            " color = "#540f7a" top = 980 left = 1% font = "unicode" }
+  + label { text = "                                                                                                                                                            " color = "#4f077e" top = 995 left = 1% font = "unicode" }
+  + label { text = "                                                                                                                                                            " color = "#4a0082" top = 1010 left = 1% font = "unicode" }
+# --- ASCII ART END ---
+
+# --- MANIFESTO BOX START ---
+  + label { text = "┌─────────────────────────────────────────────┐" color = "#ffffff" top = 80 left = 65% font = "unicode" }
+  + label { text = "│ The Industrial Revolution and its             │" color = "#aaaaaa" top = 100 left = 65% font = "unicode" }
+  + label { text = "│ consequences have been a disaster for the     │" color = "#aaaaaa" top = 120 left = 65% font = "unicode" }
+  + label { text = "│ human race. They have greatly increased the   │" color = "#aaaaaa" top = 140 left = 65% font = "unicode" }
+  + label { text = "│ life-expectancy of those of us who live in    │" color = "#aaaaaa" top = 160 left = 65% font = "unicode" }
+  + label { text = "│ 'advanced' countries, but they have           │" color = "#aaaaaa" top = 180 left = 65% font = "unicode" }
+  + label { text = "│ destabilized society, have made life          │" color = "#aaaaaa" top = 200 left = 65% font = "unicode" }
+  + label { text = "│ unfulfilling, have subjected human beings to  │" color = "#aaaaaa" top = 220 left = 65% font = "unicode" }
+  + label { text = "│ indignities, have led to widespread           │" color = "#aaaaaa" top = 240 left = 65% font = "unicode" }
+  + label { text = "│ psychological suffering (in the Third World   │" color = "#aaaaaa" top = 260 left = 65% font = "unicode" }
+  + label { text = "│ to physical suffering as well) and have       │" color = "#aaaaaa" top = 280 left = 65% font = "unicode" }
+  + label { text = "│ inflicted severe damage on the natural world. │" color = "#aaaaaa" top = 300 left = 65% font = "unicode" }
+  + label { text = "│ The continued development of technology will  │" color = "#aaaaaa" top = 320 left = 65% font = "unicode" }
+  + label { text = "│ worsen the situation.                         │" color = "#aaaaaa" top = 340 left = 65% font = "unicode" }
+  + label { text = "└─────────────────────────────────────────────┘" color = "#ffffff" top = 360 left = 65% font = "unicode" }
+# --- MANIFESTO BOX END ---

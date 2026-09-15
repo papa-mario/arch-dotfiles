@@ -1,0 +1,4 @@
+librewolf-bin
+mullvad-browser-bin
+paru
+yay

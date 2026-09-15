@@ -1,0 +1,7 @@
+"bluetooth": {
+        "format": " ON",
+        "format-off": "󰂲 OFF",
+        "format-connected": "󰂱 {device_alias}",
+        "on-click": "sudo systemctl start bluetooth && bluetoothctl power on && foot -e bluetoothctl",
+        "on-click-right": "bluetoothctl power off && sudo systemctl stop bluetooth"
+    },

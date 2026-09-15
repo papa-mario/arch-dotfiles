@@ -1,0 +1,48 @@
+* {
+    border: none;
+    border-radius: 0;
+    font-family: "JetBrains Mono", "monospace";
+    font-size: 13px;
+}
+
+window#waybar {
+    background-color: #000000;
+    border-bottom: 1px solid #1a1a1a;
+    color: #ffffff;
+}
+
+/* --- Workspaces --- */
+#workspaces button {
+    padding: 0 12px;
+    background-color: transparent;
+    color: #888888;
+    border-bottom: 2px solid transparent; /* Hidden underline by default */
+    transition: all 0.2s ease;
+}
+
+#workspaces button:hover {
+    background-color: #111111;
+    color: #ffffff;
+}
+
+#workspaces button.focused {
+    color: #ffffff;
+    border-bottom: 2px solid #ffffff; /* Crisp white underline for active space */
+}
+
+/* --- Modules --- */
+#cpu, #memory, #network, #custom-mullvad, #pulseaudio, #battery, #clock {
+    padding: 0 14px;
+    font-weight: bold;
+}
+
+/* Your original colors, but cleaner without the hard line separators */
+#cpu { color: #fb4934; }
+#memory { color: #fabd2f; }
+#custom-mullvad { color: #8ec07c; } /* Softened the green slightly */
+#network { color: #83a598; } /* Softened the cyan slightly */
+#battery { color: #d3869b; } /* Changed to a nice purple to balance the warm colors */
+#clock { color: #ffffff; }
+
+#bluetooth { color: #83a598; }
+#bluetooth.disabled { color: #555555; }
