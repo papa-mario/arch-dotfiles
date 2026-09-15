@@ -8,7 +8,7 @@ Personal Arch Linux configuration (Sway/Wayland).
 * **bar:** waybar (mullvad + bluetooth modules)
 * **term:** foot + fish + starship
 * **launcher:** wofi
-* **boot:** grub (diana theme) + mkinitcpio (custom luks ascii hook)
+* **boot:** grub (ascii theme) + mkinitcpio (custom luks ascii hook)
 
 ## deployment
 
